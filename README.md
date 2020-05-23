@@ -1,6 +1,6 @@
 # componentes
 
-A new Flutter project.
+![imagen](./assets/Screenshot_1590247791.png)
 
 ## Getting Started
 
